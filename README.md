@@ -318,7 +318,3 @@ $
 * Building a test suite to check our own code
 
 
-## Authors ##
-
-👤 **Yonas Leykun**
-
